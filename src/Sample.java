@@ -8,7 +8,15 @@ public class Sample {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         frame.add(new JLabel("Swing が使えるよ！"));
+<<<<<<< HEAD
         frame.setVisible(true);
         //aiueo
+=======
+        frame.setVisible(true);  
+        
+        //小川隼世ここに参場!←うおｗ
+        //こんにちは
+
+>>>>>>> branch 'main' of https://github.com/hayakawa-rai/GameApplicationforInterns.git
     }
 }

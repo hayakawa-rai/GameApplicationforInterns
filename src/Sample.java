@@ -10,7 +10,7 @@ public class Sample {
         frame.add(new JLabel("Swing が使えるよ！"));
         frame.setVisible(true);  
         
-        //小川隼世ここに参場!←うおｗ←漢字間違えてますよｗ
+        //小川隼世ここに参場!←うおｗ←漢字間違えてますよｗ←どわーｗ
         //こんにちは
 
     }

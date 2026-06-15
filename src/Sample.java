@@ -8,6 +8,9 @@ public class Sample {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         frame.add(new JLabel("Swing が使えるよ！"));
-        frame.setVisible(true);
+        frame.setVisible(true);  
+        
+        //小川隼世ここに参場!←うおｗ
+
     }
 }

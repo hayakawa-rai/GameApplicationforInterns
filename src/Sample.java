@@ -11,6 +11,7 @@ public class Sample {
         frame.setVisible(true);  
         
         //小川隼世ここに参場!←うおｗ
+        //こんにちは
 
     }
 }

@@ -9,5 +9,6 @@ public class Sample {
 
         frame.add(new JLabel("Swing が使えるよ！"));
         frame.setVisible(true);
+        //aiueo
     }
 }
